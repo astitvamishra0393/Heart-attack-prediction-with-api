@@ -15,6 +15,11 @@ Heart_attack_predictor_shap/
 │   └── user_input.py
 │
 └── venv/
+# Tools Used
+- Jupyter notebook
+- VS Code
+- Docker
+- FastAPI
 
 ## Project Overview
 
