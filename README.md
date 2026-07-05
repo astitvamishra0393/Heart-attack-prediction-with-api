@@ -455,10 +455,10 @@ json
   }
 }
 
-# Run FastAPI
+## Run FastAPI
 uvicorn main:app --reload
 
-## Dockerization
+# Dockerization
 
 FROM python:3.12-slim
 
