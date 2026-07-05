@@ -514,3 +514,8 @@ typing-inspection==0.4.2
 typing_extensions==4.16.0
 tzdata==2026.2
 uvicorn==0.50.0
+
+# Version Update
+
+- In further version this model will be tested upon new features derived from the original features where new features are closely related to each other.
+- MLFLOW will be integrated within the model to keep track of further updates and features.
